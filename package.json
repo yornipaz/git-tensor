@@ -4,7 +4,8 @@
   "description": "Proyecto del coursera",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite-server",
+    "start": "npm run lite",
+    "lite" :"lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

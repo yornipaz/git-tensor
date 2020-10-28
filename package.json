@@ -1,0 +1,29 @@
+{
+  "name": "git-tensor",
+  "version": "1.0.0",
+  "description": "Proyecto del coursera",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yornipaz/git-tensor.git"
+  },
+  "keywords": [
+    "proyect",
+    "coursera",
+    "learning",
+    "javaScript"
+  ],
+  "author": "Yfbp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yornipaz/git-tensor/issues"
+  },
+  "homepage": "https://github.com/yornipaz/git-tensor#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
